@@ -1,1 +1,1 @@
-(https://nadahilal122.github.io/)
+[![shilal's 42 stats](https://nadahilal122.github.io/)]
